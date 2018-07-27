@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<instances>
+    <address>
+        <instanceName>immr</instanceName>
+        <ipAddress>52.59.0.71</ipAddress>
+        <password>RAPtor1234</password>
+        <portNumber>22</portNumber>
+        <userName>root</userName>
+    </address>
+    <address>
+        <instanceName>sogps</instanceName>
+        <ipAddress>47.168.161.23</ipAddress>
+        <password>RAPtor1234</password>
+        <portNumber>22</portNumber>
+        <userName>root</userName>
+    </address>
+</instances>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="China.jnlp">
+  <information>
+    <title>China</title>
+    <vendor>Genband</vendor>
+    <description>SPiDR Log Collection</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="China.jar" size="52631" download="eager" />
+    <jar href="libs\jfoenix.jar" size="2154906" download="eager" />
+    <jar href="libs\jsch-0.1.53.jar" size="278297" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="application.Main"  name="SPiDR Log Collection" />
+  <update check="background"/>
+</jnlp>
